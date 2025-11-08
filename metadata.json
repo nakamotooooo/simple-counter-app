@@ -1,0 +1,5 @@
+{
+  "name": "React Counter App",
+  "description": "A simple and beautifully designed React application featuring a counter button that increments a number with each click.",
+  "requestFramePermissions": []
+}
